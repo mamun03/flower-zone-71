@@ -1,0 +1,37 @@
+/*header styles*/
+header{
+    background-color: pink;
+    height: 530px;
+    }
+.banner{
+    display: flex;
+    justify-content: space-between;
+    height: 530px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.head-description{
+    width: 708px;
+    height: 506px;
+    margin-top: 100px;
+
+}
+.btn-primary{
+    border: 0;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    background: rgb(251, 120, 142)
+    
+}
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.banner-img{
+    width: 390px;
+    height: 510px;
+    margin-top: 20px;
+}
+
